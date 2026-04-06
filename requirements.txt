@@ -1,5 +1,6 @@
 smartapi-python
 pandas
+pandas_ta
 requests
 pyotp
 logzero
