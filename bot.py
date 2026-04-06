@@ -1,6 +1,4 @@
 from SmartApi import SmartConnect
-import pandas as pd
-import pandas_ta as ta
 import time, datetime, requests, pyotp, json, os
 
 # ================= LOGIN =================
