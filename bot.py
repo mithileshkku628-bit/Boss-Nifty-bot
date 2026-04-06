@@ -4,7 +4,7 @@ import time, datetime, requests, pyotp, json, os
 # ================= LOGIN =================
 API_KEY = "I2Ai40Jo"
 CLIENT_ID = "M187274"
-PASSWORD = "kumar@1234"
+PASSWORD = "3371"
 TOTP_SECRET = "UNDPET7Q5TI67WL34G34FR76DA"
 
 totp = pyotp.TOTP(TOTP_SECRET).now()
